@@ -1,0 +1,1 @@
+Sitemap: https://phaross.github.io/chess-notes/sitemap.xml
