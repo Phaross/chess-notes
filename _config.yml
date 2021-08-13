@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Chess Notes
+description: A blog to keep track of interesting ideas that I encountered while learning chess.
 github_username: Phaross
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "chess-notes"
